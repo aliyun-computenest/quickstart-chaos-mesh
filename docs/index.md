@@ -70,3 +70,6 @@ ChaosMesh上的费用主要涉及：
 4.等待部署完成后进入服务实例管理。
 
 5.在控制台找到ChaosMesh服务链接并访问。
+
+![image.png](5.png)
+![image.png](6.png)
